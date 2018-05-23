@@ -1,3 +1,10 @@
+body{
+  color: lawngreen
+}
+
+
+
+
 .feature{
   text-align: center;
   text-decoration-color: green
@@ -12,5 +19,5 @@
 .function{
   text-align: center;
   color: silver
-  
+
 }
